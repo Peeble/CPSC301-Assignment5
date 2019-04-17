@@ -1,5 +1,5 @@
 // Anthony Galustyan
-// Section #
+// Section 3
 
 #include <iostream>
 #include <string>
