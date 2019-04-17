@@ -531,7 +531,7 @@ int main() {
     //output(cardholders, books);
     rentals(cardholders, books);
 
-    cout << "testing " << books.at(48)->getTitle() << endl;
+    //cout << "testing " << books.at(49)->getTitle() << endl;
 
     int choice;
     do
